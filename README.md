@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+#MAGD-150-Assignments
 
-You can use the [editor on GitHub](https://github.com/EricCzapla/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+##**Lab 1- Static Compositions in Black and White**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Theme: Buildings_
+[Lab 1 link](https://github.com/EricCzapla/MAGD-150-Assignments/tree/gh-pages/f19magd150lab01_Czapla)
 
-### Markdown
+##**Lab 2- Color Composition**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Theme: Planets/Space_
+[Lab 2 link](https://github.com/EricCzapla/MAGD-150-Assignments/tree/gh-pages/f19magd150lab02_Czapla)
 
-```markdown
-Syntax highlighted code block
+##**Lab 4- Dynamism**
 
-# Header 1
-## Header 2
-### Header 3
+_Theme: Pizza_
+[Lab 4 link](https://github.com/EricCzapla/MAGD-150-Assignments/tree/gh-pages/f19magd150lab04_Czapla)
 
-- Bulleted
-- List
+##**Lab 5- Intersections**
 
-1. Numbered
-2. List
+_Theme: Television_
+[Lab 5 link](https://github.com/EricCzapla/MAGD-150-Assignments/tree/gh-pages/f19madg150lab05_Czapla)
 
-**Bold** and _Italic_ and `Code` text
+##**Lab 6- Organization**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EricCzapla/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Theme: Retro Games_
+[Lab 6 link](https://github.com/EricCzapla/MAGD-150-Assignments/tree/gh-pages/f19magd150lab06_Czapla)
